@@ -4,10 +4,11 @@
 
 project = 'Public Address'
 copyright = '2022, Public Address'
+html_show_sphinx = False
 author = 'Public Address'
 
-release = '0.1'
-version = '0.1.0'
+release = '2.9.1'
+version = '2.9.1'
 
 # -- General configuration
 
@@ -18,6 +19,8 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
 ]
+
+language = 'en'
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
