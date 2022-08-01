@@ -5,7 +5,7 @@ Welcome to Public Address' documentation!
 forward thinking public relations and communication professionals.
 
 Check out the :ref:`edit-pitches` section for help setting up
-your account and :doc:`firstcampaign` to get started with your first campaign.
+your account and :doc:`newcampaign` to get started with your first campaign.
 
 .. note::
 
