@@ -18,13 +18,12 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   newcampaign
 
 **Platform Management**
 
 .. toctree::
 
-   newcampaign
+
    editpitches
 
