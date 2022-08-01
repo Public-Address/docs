@@ -9,7 +9,7 @@ your account and :doc:`newcampaign` to get started with your first campaign.
 
 .. note::
 
-   We're still building out this documentation, please contact support@publicadderss.ai for any urgent support.
+   We're still building out this documentation, please contact support@publicaddress.ai for any urgent support.
 
 Contents
 --------
