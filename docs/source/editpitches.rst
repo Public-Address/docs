@@ -1,4 +1,4 @@
-.. _my-reference-label:
+.. _edit-pitches:
 
 Edit pitches
 ====
