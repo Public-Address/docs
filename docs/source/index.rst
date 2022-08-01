@@ -16,9 +16,6 @@ how to :ref:`installation` the project.
 Contents
 --------
 
-:ref: `Edit pitches`
-
-
 .. toctree::
 
    usage
