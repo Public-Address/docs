@@ -1,24 +1,30 @@
 Welcome to Public Address's documentation!
 ===================================
 
-**Public Address** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Public Address** is the media relationship management platform for
+forward thinking public relations and communication professionals.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :ref:`gettingstarted` section for help setting up
+your account and :ref:`firstcampaign` to get started with your first campaign.
 
 .. note::
 
-   This project is under active development.
+   We're still building out this documentation, please contact support@publicadderss.ai for any urgent support.
 
 Contents
 --------
+
+**Getting Started**
 
 .. toctree::
 
    usage
    api
+
+**Platform Management**
+
+.. toctree::
+
    newcampaign
    editpitches
+

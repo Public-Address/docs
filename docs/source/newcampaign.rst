@@ -1,9 +1,7 @@
 Creating a new campaign
 ====
 
-**Creating a new campaign**
-
-This guide will take you through sending a cam
+This guide will take you through sending a camp
 
 **Watch outs**
 
