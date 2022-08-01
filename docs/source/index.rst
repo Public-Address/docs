@@ -1,10 +1,10 @@
-Welcome to Public Address's documentation!
+Welcome to Public Address' documentation!
 ===================================
 
 **Public Address** is the media relationship management platform for
 forward thinking public relations and communication professionals.
 
-Check out the :ref:`gettingstarted` section for help setting up
+Check out the :ref:`Edit pitches` section for help setting up
 your account and :ref:`firstcampaign` to get started with your first campaign.
 
 .. note::
