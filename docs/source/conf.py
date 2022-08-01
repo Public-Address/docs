@@ -8,6 +8,12 @@ html_show_sphinx = False
 html_show_sourcelink = False
 author = 'Public Address'
 
+html_context = {
+    "display_github": False, # Add 'Edit on Github' link instead of 'View page source'
+    "last_updated": True,
+    "commit": False,
+}
+
 release = '2.9.1'
 version = '2.9.1'
 
