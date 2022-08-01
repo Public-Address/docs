@@ -1,4 +1,7 @@
-**Edit pitches**
+.. _my-reference-label:
+
+Edit pitches
+====
 
 The first thing you’ll notice is that our Artificial Intelligence model recommends a number of journalists to add to your campaign. Simply select the orange add button – and they’ll be added to this campaign.
 
