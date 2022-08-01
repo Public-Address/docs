@@ -1,10 +1,11 @@
+Creating a new campaign
+====
+
 **Creating a new campaign**
 
-Getting started
+This guide will take you through sending a cam
 
-This QRG will help you to send your first campaign out through Public Address.
-
-Watch outs
+**Watch outs**
 
 •	Give yourself time to create your first campaign by using the scheduling function to send your emails the next day
 
@@ -35,22 +36,6 @@ You’ll also see that there are a number of buttons down the bottom of your cam
 •	Send Now or Edit Pitches: If you’re pitching one journalist, you can hit ‘Send Now’ to immediately send your pitch. Otherwise you can select ‘Edit Pitches’ to be able to further customise each individual email pitch
 
 Fantastic – you’ve now set up your first campaign – before you send, you’ll want to edit your pitches as this can increase the number of replies you get by 300%.
-
-Edit pitches
-
-The first thing you’ll notice is that our Artificial Intelligence model recommends a number of journalists to add to your campaign. Simply select the orange add button – and they’ll be added to this campaign.
-
-If you ever want to pull these up, just select the magic wand in the top right, and you can add individual journalists and additional lists using the plus button.
-
-You’ll also note that we warn you if a journalist email is out of date, and specifically whether it has bounced, or the journalist hasn’t written any articles recently.
-
-By selecting the checkboxes on the left, you’re able to turn notifications or private mode on and off, change the date/time a pitch is to be sent and delete selected journalists from your campaign.
-
-Now you can click on any of the journalists in your campaign to edit the specific pitch to this journalist. You’ll notice that when you pull up the pitch, you’re able to see the journalist’s recent articles on the right-hand side.
-
-Any edits you make to your pitch will only apply to the individual email that will be sent to this journalist and you can edit the subject line and body of the pitch.
-
-Once you’re done editing your pitches, you can click ‘Send Now’ or if it’s scheduled, ‘Schedule Send.’ We’ll display a final confirmation message to make sure you’re ready to go – then you can confirm and we’ll send your campaign out.
 
 Final tip
 
