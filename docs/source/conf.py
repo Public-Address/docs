@@ -5,6 +5,7 @@
 project = 'Public Address'
 copyright = '2022, Public Address'
 html_show_sphinx = False
+html_show_sourcelink = False
 author = 'Public Address'
 
 release = '2.9.1'
