@@ -19,11 +19,6 @@ Contents
 .. toctree::
 
    newcampaign
-
-**Platform Management**
-
-.. toctree::
-
-
    editpitches
+
 

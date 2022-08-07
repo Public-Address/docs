@@ -7,9 +7,11 @@ This guide will take you through sending a camp
 
 •	Give yourself time to create your first campaign by using the scheduling function to send your emails the next day
 
-Creating your campaign
+**Creating your campaign**
 
-To create your campaign, you need to enter:
+To get started, select 'New Campaign' from the Left Hand Side Navigation Bar.
+
+To create a campaign, you need to enter:
 
 •	Campaign Name: An internal name for your campaign that will make sense to you and your colleagues – journalists don’t see this
 •	From: Select which email address you want to send your campaign from
@@ -19,6 +21,8 @@ To create your campaign, you need to enter:
 Great – you’ve now got your campaign set up. You’ll now want to add content to your campaign.
 
 You’ll see that we’ve started your pitch with Hi \|First Name\|, which is our handy mark down functionality –  markdown is text where we automatically prefill your email with the journalists first names from your media list.
+
+.. image:: https://www.dropbox.com/s/wuofrvv98fn18px/Markdown%20select.png?dl=0
 
 You can then start typing your pitch into Public Address, further utilising any markdown shortcuts such as role, publication, section or first name. Remember that this is the pitch that you’ll be able to edit in the next step, so don’t overly personalise it here.
 
