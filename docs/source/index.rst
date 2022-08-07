@@ -21,5 +21,6 @@ Contents
    importlist
    newcampaign
    editpitches
+   newsdesk
 
 
