@@ -22,5 +22,6 @@ Contents
    newcampaign
    editpitches
    newsdesk
+   integration
 
 
