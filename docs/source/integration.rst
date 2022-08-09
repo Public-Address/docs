@@ -39,7 +39,7 @@ e
 
 e
 
+.. _gmail:
 
-.. _Gmail:
-Connecting your Gmail Account
+Gmail Connecting your Gmail Account
 -------
