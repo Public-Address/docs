@@ -14,7 +14,7 @@ You can skip ahead to the relevant section depending on the email provider you u
 Connecting your Gmail Account
 -------
 
-To connect your email account, head to the settings drop down menu and select ‘Integrations’. Select the + sign on the right hand side of "email address" and click "Add my own email" from the drop down menu.
+To connect your email account, head to the settings drop down menu and select **‘Integrations’**. Select the **+** sign on the right hand side of *email address* and click **'Add my own email'** from the drop down menu.
 
 .. image:: https://publicaddressdocs.s3.ap-southeast-2.amazonaws.com/Add+New+Integration+%2B+email.png
 
@@ -26,11 +26,11 @@ A pop up will open where it will ask you to select the account you want to conne
 
 Enter your email address and select ‘Next.’ You’ll now be prompted to enter your password, and then hit ‘next’.
 
-You’ll now be asked to provide your permission for Public Address to be able to read and send email on your behalf – this is an important aspect of this integration as it allows you to send emails via the Public Address platform. These emails will then show up in your outbox and we’ll be able to incorporate replies to these emails into the platform.
+You’ll now be asked to **provide your permission** for Public Address to be able to read and send email on your behalf – this is an important aspect of this integration as it allows you to send emails via the Public Address platform. These emails will then show up in your outbox and we’ll be able to incorporate replies to these emails into the platform.
 
 .. image:: https://publicaddressdocs.s3.ap-southeast-2.amazonaws.com/Send+email+on+your+behalf.png
 
-Please hit continue, and then you’ll be redirected back to the user settings page and this dialog box will close.
+Please hit **Continue**, and then you’ll be redirected back to the user settings page and this dialog box will close.
 
 If your platform has been configured correctly you’re all set to go. If you see a ‘This app isn’t verified’ warning from Google your platform or domain administrator haven’t configured the application correctly. To learn more about this error view our help article here.
 
@@ -38,7 +38,7 @@ If your platform has been configured correctly you’re all set to go. If you se
 
 Connecting your Microsoft Account
 -------
-To connect your email account, head to the settings drop down menu and select ‘Integrations’. Select the + sign on the right hand side of "email address" and click "Add my own email" from the drop down menu.
+To connect your email account, head to the settings drop down menu and select **‘Integrations’**. Select the **+** sign on the right hand side of *email address* and click **'Add my own email'** from the drop down menu.
 
 .. image:: https://publicaddressdocs.s3.ap-southeast-2.amazonaws.com/Add+New+Integration+%2B+email.png
 
@@ -50,7 +50,7 @@ A pop up will open where it will ask you to select the account you want to conne
 
 Enter your email address and select ‘Next.’ You’ll now be prompted to enter your password, and then hit ‘next’.
 
-You’ll now asked to provide your permission for Public Address to be able to read and send email on your behalf – this is an important aspect of this integration as it allows you to send emails via the Public Address platform. These emails will then show up in your outbox and we’ll be able to incorporate replies to these emails into the platform.
+You’ll now asked to **provide your permission** for Public Address to be able to read and send email on your behalf – this is an important aspect of this integration as it allows you to send emails via the Public Address platform. These emails will then show up in your outbox and we’ll be able to incorporate replies to these emails into the platform.
 
 .. image:: https://publicaddressdocs.s3.ap-southeast-2.amazonaws.com/Microsoft+email+behalf.png
 
