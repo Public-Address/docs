@@ -6,10 +6,24 @@ on the platform.
 You can skip ahead to the relevant section depending on the email provider you use:
 
 * Microsoft Exchange 365
-* :ref: gmail
+* Gmail_
 * SMTP
 
-.. _gmail
+safee
 
+eee
+
+eeeee
+
+eeeeee
+
+
+e
+
+
+e
+
+
+.. _Gmail:
 Connecting your Gmail Account
 -------
