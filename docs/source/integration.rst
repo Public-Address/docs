@@ -16,7 +16,7 @@ Connecting your Gmail Account
 
 To connect your email account, head to the settings drop down menu and select **‘Integrations’**. Select the **+** sign on the right hand side of *email address* and click **'Add my own email'** from the drop down menu.
 
-.. image:: https://publicaddressdocs.s3.ap-southeast-2.amazonaws.com/Add+New+Integration+%2B+email.png
+.. image:: https://publicaddressdocs.s3.ap-southeast-2.amazonaws.com/Add+New+Integration+email.png
 
 A pop will then appear asking you a few different email options. Select **'Connect with Google'.**
 
@@ -40,7 +40,7 @@ Connecting your Microsoft Account
 -------
 To connect your email account, head to the settings drop down menu and select **‘Integrations’**. Select the **+** sign on the right hand side of *email address* and click **'Add my own email'** from the drop down menu.
 
-.. image:: https://publicaddressdocs.s3.ap-southeast-2.amazonaws.com/Add+New+Integration+%2B+email.png
+.. image:: https://publicaddressdocs.s3.ap-southeast-2.amazonaws.com/Add+New+Integration+email.png
 
 Select **‘Connect a Different Account’** and then **'Connect with Microsoft'** to connect your Office365 account.
 
