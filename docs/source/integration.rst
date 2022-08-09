@@ -41,5 +41,5 @@ e
 
 .. _gmail:
 
-Gmail Connecting your Gmail Account
+Connecting your Gmail Account
 -------
