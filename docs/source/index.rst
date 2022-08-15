@@ -23,5 +23,5 @@ Contents
    editpitches
    newsdesk
    integration
-
+   attachments
 
