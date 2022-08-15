@@ -24,4 +24,5 @@ Contents
    newsdesk
    integration
    attachments
+   passwordreset
 
