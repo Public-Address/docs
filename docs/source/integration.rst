@@ -87,7 +87,6 @@ Of course if you experience any difficulty with any this set up process, our sup
 
 Why can’t I add my Microsoft 365 account to Public Address?
 -------
-
 The Public Address application requires access to be able to perform certain actions in your email account in order to provide the full benefit of a premium subscription. Microsoft refers to these actions as ‘scopes,’ for example, when you first connect your Microsoft account we request access be able to send email from your email account, inside the Public Address application.
 
 Some of these scopes require your administrator to approve access, and until your IT administrator approves this access, you won’t be able to use Public Address to send emails from your email account. This is why you’re receiving a message asking you to contact your IT administrator.
@@ -156,7 +155,6 @@ If you or your users continue to see this screen when connecting their account, 
 
 How do I use the full features of Public Address with my G Suite account?
 -------
-
 The Public Address application requires access to be able to perform certain actions in your email account in order to provide the full benefit of a premium subscription. Google refers to these actions as ‘scopes,’ for example, when you first connect your Google account we request access to the gmail.send scope, which allows you to send email from your email account, inside the Public Address application.
 
 Some of these scopes require your administrator to approve access, and until your IT administrator approves this access, you’ll see an application unverified warning from Google. More information about this message is available :ref:`here <Why am I seeing a ‘This app isn’t verified’ message from Google?>`.
