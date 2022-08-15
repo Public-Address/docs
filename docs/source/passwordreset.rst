@@ -22,4 +22,4 @@ If you’re a platform owner, you can also select the lock icon next to a user t
 
 If you were just bored of your old password or wanting to change it for another reason - this is also possible. You will just need to go into the *Settings* drop down menu and then *Profile*.
 
-On the bottom right corner next to notifications, you will see the **Reset Password** section where you will be able to type your current password and create a new password.
+On the bottom right corner next to notifications, you will see the **Reset Password** section where you will be able to input your current password and create a new one.
