@@ -20,6 +20,6 @@ If you’re a platform owner, you can also select the lock icon next to a user t
 
 **Creating a new password**
 
-If for any reason you needed to change your password, head to your Settings. You will just need to go into the *Settings* drop down menu and then *Profile*.
+If for any reason you needed to change your password, head to your Settings. Select the *Settings* drop down menu and then *Profile*.
 
 On the bottom right corner next to notifications, you will see the **Reset Password** section where you will be able to input your current password and create a new one.
