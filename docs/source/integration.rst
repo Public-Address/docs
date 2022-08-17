@@ -12,7 +12,7 @@ You can skip ahead to the relevant section depending on the email provider you u
 * SMTP_
 
 
-**Watch Outs**
+**Watch Outs/Common Issues**
 
 * `Why can’t I add my Microsoft 365 account to Public Address?`_
 * `Why am I seeing a ‘This app isn’t verified’ message from Google?`_
