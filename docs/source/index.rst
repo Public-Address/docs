@@ -20,7 +20,7 @@ Contents
 
    importlist
    newcampaign
-   editpitches
+   addjournalists
    newsdesk
    integration
    attachments
