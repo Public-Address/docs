@@ -15,7 +15,6 @@ To create a campaign, you need to enter:
 
 •	Campaign Name: An internal name for your campaign that will make sense to you and your colleagues – journalists don’t see this
 •	From: Select which email address you want to send your campaign from
-•	Select list or enter contacts: Start typing to find media lists to distribute to, or start typing a journalists name to add them to the campaign
 •	Subject line: Just like a regular email subject line
 
 Great – you’ve now got your campaign set up. You’ll now want to add content to your campaign.
@@ -38,10 +37,8 @@ These buttons allow you to set a number of additional features according to your
 •	Send test email: Send yourself a preview email to check formatting
 •	Add attachments: You can upload attachments to your email. If it’s larger than 3mb, we’ll automatically send this as a link rather than a traditional email attachment so you don’t get caught up in spam
 •	Save as draft: Saves a draft of your campaign
-•	Schedule campaign: You can choose any time in the future to distribute your campaign
-•	Send Now or Edit Pitches: If you’re pitching one journalist, you can hit ‘Send Now’ to immediately send your pitch. Otherwise you can select ‘Edit Pitches’ to be able to further customise each individual email pitch
 
-Fantastic – you’ve now set up your first campaign – before you send, you’ll want to edit your pitches as this can increase the number of replies you get by 300%.
+Fantastic – you’ve now set up your first campaign – you can now select add journalists to add journalists or media lists to your campaign.
 
 **Final tip**
 

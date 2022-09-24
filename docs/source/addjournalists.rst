@@ -1,13 +1,18 @@
-.. _edit-pitches:
+.. _add-journalists:
 
-Edit pitches
+Add journalists
 ====
 
 The first thing you’ll notice is that our Artificial Intelligence model recommends a number of journalists to add to your campaign. Simply select the orange add button – and they’ll be added to this campaign.
 
 .. image:: https://publicaddressdocs.s3.ap-southeast-2.amazonaws.com/Suggested+journalists.png
 
-If you ever want to pull these up, just select the magic wand in the top right, and you can add individual journalists and additional lists using the plus button.
+You can now add journalists by searching for a media list or journalist and selecting the 'Add Contact' button. You can choose to schedule each list and media contact for the appropriate time using the clock icon next to Add Contact.
+
+.. image:: https://publicaddressdocs.s3.ap-southeast-2.amazonaws.com/AddJournalists.png
+
+
+If you ever want to pull these up, just select the magic wand in the top right, and you can add individual journalists.
 
 You’ll also note that we warn you if a journalist email is out of date, and specifically whether it has bounced, or the journalist hasn’t written any articles recently.
 
