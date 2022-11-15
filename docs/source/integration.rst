@@ -1,5 +1,7 @@
 Integrating your email account
 ========
+**Getting Started**
+
 Connecting your email account to Public Address is simple and allows you to send pitches from your email account
 on the platform.
 
@@ -8,6 +10,10 @@ You can skip ahead to the relevant section depending on the email provider you u
 * Gmail_
 * `Microsoft Exchange 365`_
 * SMTP_
+
+
+**Watch Outs/Common Issues**
+
 * `Why can’t I add my Microsoft 365 account to Public Address?`_
 * `Why am I seeing a ‘This app isn’t verified’ message from Google?`_
 * `How do I use the full features of Public Address with my G Suite account?`_
@@ -81,7 +87,7 @@ A note about your password – you can definitely use Public Address with any IM
 
 Once you’ve entered those details please select ‘Test Connection’ – Public Address will then test the connection with your email server, which can take up to 60 seconds, before displaying a confirmation message that we’ve been able to successfully connect to your account.
 
-Of course if you experience any difficulty with any this set up process, our support team is standing by using the message icon in the bottom right corner, on 1300 158 048 or via support@publicaddress.ai
+Of course if you experience any difficulty with any this set up process, our support team is standing by using the message icon in the bottom right corner or via support@publicaddress.ai
 
 .. _`Why can’t I add my Microsoft 365 account to Public Address?`:
 
@@ -93,18 +99,20 @@ Some of these scopes require your administrator to approve access, and until you
 
 There’s three ways that your IT administrator can rectify this problem, and we’ve included all options below for your IT administrators to help them in whitelisting our application and some more information about how we securely manage your data.
 
-Information for IT administrators
+**Information for IT administrators**
+
 To ensure the integrity of your data, we only request access to the following scopes:
 
 Mail.Send, in order to be able to send emails on your user’s behalf and create tracking data on opens and engagements with links
-Mail.ReadWrite, in order to be able to use the messageid associated with the message we have sent on your user’s behalf to locate replies to this message and filter thes einto the platform
+Mail.ReadWrite, in order to be able to use the messageid associated with the message we have sent on your user’s behalf to locate replies to this message and filter these into the platform
 Contacts.Read, in order to enable your users to email their contacts from the platform
 When we access your user’s mailbox, we will only ever access emails via the threadid, which identifies emails which have been sent via our platform.
 
 Use the Public Address consent URI
+
 Following the consent process below will allow your users to individually connect to the Public Address application. Please note that this must be completed by a user with admin privileges for your account.
 
-https://login.microsoftonline.com/common/adminconsent?client_id=ed801945-cd65-4ee1-a1c9-e760bc5477a2&redirect_uri=https://go.publicaddress.app/settings/azure/callback
+https://login.microsoftonline.com/common/adminconsent?client_id=ed801945-cd65-4ee1-a1c9-e760bc5477a2&redirect_uri=https://app.publicaddress.com.au/settings/azure/callback
 
 Allow your users to consent to access
 You can allow your users to consent to access to external applications:
@@ -157,9 +165,9 @@ How do I use the full features of Public Address with my G Suite account?
 -------
 The Public Address application requires access to be able to perform certain actions in your email account in order to provide the full benefit of a premium subscription. Google refers to these actions as ‘scopes,’ for example, when you first connect your Google account we request access to the gmail.send scope, which allows you to send email from your email account, inside the Public Address application.
 
-Some of these scopes require your administrator to approve access, and until your IT administrator approves this access, you’ll see an application unverified warning from Google. More information about this message is available :ref:`here <Why am I seeing a ‘This app isn’t verified’ message from Google?>`.
+Some of these scopes require your administrator to approve access, and until your IT administrator approves this access, you’ll see an application unverified warning from Google. More information about this message is available `Why am I seeing a ‘This app isn’t verified’ message from Google?`_.
 
-When you sign up for the plan, we’ll ask only for sensitive scopes, which don’t require administrator approval. But to unlock the full features of Public Address and display replies from journalists inside the application, you’ll need your domain administrator do complete a process called Whitelisting and enable the gmail.readonly scope, which allows the application to search your inbox for messages which have been sent as replies to emails you’ve sent from the Public Address platform.
+When you sign up for the plan, we’ll ask only for sensitive scopes, which don’t require administrator approval. But to unlock the full features of Public Address and display replies from journalists inside the application, you’ll need your domain administrator to complete a process called Whitelisting and enable the gmail.readonly scope, which allows the application to search your inbox for messages which have been sent as replies to emails you’ve sent from the Public Address platform.
 
 Once your administrator has followed the steps below, you’ll need to go to G Suite Enterprise Authorisation, under Platform Management, and select ‘Verify.’ You’ll be prompted to log in and out of your Google account on the Public Address platform.
 
