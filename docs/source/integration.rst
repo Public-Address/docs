@@ -112,7 +112,7 @@ Use the Public Address consent URI
 
 Following the consent process below will allow your users to individually connect to the Public Address application. Please note that this must be completed by a user with admin privileges for your account.
 
-https://login.microsoftonline.com/common/adminconsent?client_id=ed801945-cd65-4ee1-a1c9-e760bc5477a2&redirect_uri=https://app.publicaddress.com.au/settings/azure/callback
+https://login.microsoftonline.com/common/adminconsent?client_id=ed801945-cd65-4ee1-a1c9-e760bc5477a2&redirect_uri=https://go.publicaddress.app/settings/azure/callback
 
 Allow your users to consent to access
 You can allow your users to consent to access to external applications:
