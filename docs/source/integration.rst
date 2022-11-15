@@ -103,9 +103,8 @@ There’s three ways that your IT administrator can rectify this problem, and we
 
 To ensure the integrity of your data, we only request access to the following scopes:
 
-Mail.Send, in order to be able to send emails on your user’s behalf and create tracking data on opens and engagements with links
-Mail.ReadWrite, in order to be able to use the messageid associated with the message we have sent on your user’s behalf to locate replies to this message and filter these into the platform
-Contacts.Read, in order to enable your users to email their contacts from the platform
+- Mail.Send, in order to be able to send emails on your user’s behalf and create tracking data on opens and engagements with links
+- Mail.ReadWrite, in order to be able to use the messageid associated with the message we have sent on your user’s behalf to locate replies to this message and filter these into the platform
 When we access your user’s mailbox, we will only ever access emails via the threadid, which identifies emails which have been sent via our platform.
 
 Use the Public Address consent URI
