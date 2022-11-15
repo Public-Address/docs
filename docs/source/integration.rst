@@ -81,7 +81,7 @@ A note about your password – you can definitely use Public Address with any IM
 
 Once you’ve entered those details please select ‘Test Connection’ – Public Address will then test the connection with your email server, which can take up to 60 seconds, before displaying a confirmation message that we’ve been able to successfully connect to your account.
 
-Of course if you experience any difficulty with any this set up process, our support team is standing by using the message icon in the bottom right corner, on 1300 158 048 or via support@publicaddress.com.au
+Of course if you experience any difficulty with any this set up process, our support team is standing by using the message icon in the bottom right corner, on 1300 158 048 or via support@publicaddress.ai
 
 .. _`Why can’t I add my Microsoft 365 account to Public Address?`:
 
@@ -104,7 +104,7 @@ When we access your user’s mailbox, we will only ever access emails via the th
 Use the Public Address consent URI
 Following the consent process below will allow your users to individually connect to the Public Address application. Please note that this must be completed by a user with admin privileges for your account.
 
-https://login.microsoftonline.com/common/adminconsent?client_id=ed801945-cd65-4ee1-a1c9-e760bc5477a2&redirect_uri=https://app.publicaddress.com.au/settings/azure/callback
+https://login.microsoftonline.com/common/adminconsent?client_id=ed801945-cd65-4ee1-a1c9-e760bc5477a2&redirect_uri=https://go.publicaddress.app/settings/azure/callback
 
 Allow your users to consent to access
 You can allow your users to consent to access to external applications:
@@ -148,7 +148,7 @@ In order to do so immediately, please select ‘Advanced’ and then select ‘G
 
 Don’t worry, your data is completely safe and Public Address is built from the ground up with industry leading security and authentication mechanisms to keep your data safe and secure. Public Address will be completing the Google verification process for this integration in the future, however, Google charges in excess of $100,000 Australian dollars to do so.
 
-If you or your users continue to see this screen when connecting their account, please log a support ticket at support@publicaddress.com.au and our team will reach out to help you through the domain whitelisting process.
+If you or your users continue to see this screen when connecting their account, please log a support ticket at support@publicaddress.ai and our team will reach out to help you through the domain whitelisting process.
 
 
 .. _`How do I use the full features of Public Address with my G Suite account?`:
