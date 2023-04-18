@@ -6,7 +6,7 @@ We’ve all been there. It’s pretty easy to forget your password and get locke
 
 **I've forgotten my password!**
 
-Don’t worry – it’s super easy to reset your password. You can go to go.publicaddress.ai and select ‘Forgot Password’, enter your email address, and we’ll send instructions to your email address.
+Don’t worry – it’s super easy to reset your password. You can go to go.publicaddress.app and select ‘Forgot Password’, enter your email address, and we’ll send instructions to your email address.
 
 .. image:: https://publicaddressdocs.s3.ap-southeast-2.amazonaws.com/forgotpassword.png
 
