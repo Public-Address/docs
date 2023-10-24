@@ -77,7 +77,7 @@ These are also accessible on your phone – so you can head to the settings of y
 
 If you know your email provider, you can also search for this on the internet and they will typically have these settings displayed somewhere on their website.
 
-Of course, the recommended way ahead here is to ask your friendly IT support person to send these settings to you. You’ll need an IMAP Host and port, SMTP Host and port, and whether to
+Of course, the recommended way ahead here is to ask your friendly IT support person to send these settings to you. You’ll need an IMAP Host and port, SMTP Host and port, your email username and your email password.
 
 Once you’ve received these settings, you’re ready to go!
 
