@@ -40,7 +40,7 @@ You’ll now be asked to **provide your permission** for Public Address to be ab
 
 Please hit **Continue**, and then you’ll be redirected back to the user settings page and this dialog box will close.
 
-If your platform has been configured correctly you’re all set to go. If you see a ‘This app isn’t verified’ warning from Google your platform or domain administrator haven’t configured the application correctly. To learn more about this error view our help article here.
+If your platform has been configured correctly you’re all set to go.
 
 .. _Microsoft Exchange 365:
 
