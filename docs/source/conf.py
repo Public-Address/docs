@@ -3,13 +3,13 @@
 # -- Project information
 
 project = 'Public Address'
-copyright = '2022, Public Address'
+copyright = '2024, Public Address'
 html_show_sphinx = False
 html_show_sourcelink = False
 author = 'Public Address'
 
-release = '2.9.1'
-version = '2.9.1'
+release = '3.8.2'
+version = '3.8.2'
 
 # -- General configuration
 
