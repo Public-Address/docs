@@ -3,13 +3,13 @@
 # -- Project information
 
 project = 'Public Address'
-copyright = '2024, Public Address'
+copyright = '2025, Public Address'
 html_show_sphinx = False
 html_show_sourcelink = False
 author = 'Public Address'
 
-release = '3.8.2'
-version = '3.8.2'
+release = '4.3.0'
+version = '4.3.0'
 
 # -- General configuration
 
@@ -33,7 +33,12 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'furo'
+
+html_theme_options = {
+    "light_logo": "logo-light.png",
+    "dark_logo": "logo-dark.png",
+}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
